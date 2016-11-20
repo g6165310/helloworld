@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/g6165310/helloworld/issues"
   },
-  "homepage": "https://github.com/g6165310/helloworld#readme"
+  "homepage": "https://github.com/g6165310/helloworld#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
